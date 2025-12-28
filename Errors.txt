@@ -1,0 +1,5 @@
+Wrong statement: currentchar= $((tr -d '\n' < ${INPUTFILE} | cut -c"$count"))
+Error: tr -d '\n' < input.txt | cut -c1: syntax error: invalid arithmetic operator (error token is "'\n' < input.txt | cut -c1")
+Correct statement: currentchar= $(tr -d '\n' < $INPUTFILE | cut -c"$count")
+What you understood from the problem and solution? 
+

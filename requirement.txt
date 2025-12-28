@@ -1,0 +1,4 @@
+perform string manipulation like word count, special charcater count, line count and paragraph count
+input for this operation will be input.txt
+output for this operation will be output.txt
+operation is performed using a shell script

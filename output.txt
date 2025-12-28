@@ -1,0 +1,23 @@
+
+THE NUMBER OF WORDS : 653
+THE NUMBER OF WORDS : 653
+THE NUMBER OF WORDS : 653
+THE NUMBER OF WORDS : 653
+Special characters: 89
+THE NUMBER OF WORDS : 653
+Special characters: 89
+Number of lines: 10
+THE NUMBER OF WORDS : 653
+Special characters: 89
+Number of lines: 10
+THE NUMBER OF WORDS : 653
+Special characters: 89
+Number of lines: 11
+THE NUMBER OF WORDS : 653
+Special characters: 89
+Number of lines: 11
+Number of Paragraphs: 6
+THE NUMBER OF WORDS : 653
+Special characters: 89
+Number of lines: 11
+Number of Paragraphs: 6
