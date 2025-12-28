@@ -17,7 +17,7 @@ OUTPUTFILE="output.txt"
 WORDCOUNTER=0
 
 # Go to the location where the input files are stored
-cd ${INPUT}
+# cd ${INPUT}
 
 # start counting the words
 count=1
