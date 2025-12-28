@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                ./string-manipulation.sh
+               sh './string-manipulation.sh'
             }
         }
     }
