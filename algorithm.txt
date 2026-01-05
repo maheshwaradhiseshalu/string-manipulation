@@ -11,4 +11,4 @@ Algorithm for word count:
    6. a consider it as a line if it ends \n
    6. b Ignore if there is no alphabets because its a empty line
 7. Start counting the paragraph
-   7. a consider it as a paragraph when there is one of more non-empty lines separated by one or more empty lines.
+   7. a consider it as a paragraph when there is one of more non-empty lines
